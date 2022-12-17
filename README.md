@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<img alt="Badge" src="https://img.shields.io/badge/Steam-171a21.svg?&style=for-the-badge&logo=Steam5&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/Steam-171a21.svg?&style=for-the-badge&logo=Steam&logoColor=white"/>
