@@ -1,4 +1,4 @@
-### Hi there 👋
+### La turracata 👋
 
 <!--
 **Zero1Exp/Zero1Exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<a href="https://github.com/Zero1Exp">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zero1Exp&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zero1Exp&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
