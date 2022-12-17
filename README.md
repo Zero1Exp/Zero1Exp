@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zero1Exp&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
+
+<img alt="Badge" src="https://img.shields.io/badge/Steam-171a21.svg?&style=for-the-badge&logo=Steam5&logoColor=white"/>
