@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 <div style="display: flex">
 <img alt="Badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 <img alt="Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/-Github-000000?&style=for-the-badge&logo=github&logoColor=white">
 <img alt="Badge" src="https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
 </div>
 
 ###
