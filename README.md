@@ -39,13 +39,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
-[Tobi.R](https://instagram.com/tobi_o.g)
+<img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/><br> [Tobi.R](https://instagram.com/tobi_o.g)
   
-<img src="https://img.shields.io/badge/-Twitter-00acee?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
-[Dorifto](https://twitter.com/Dorifto_Z)
+<img src="https://img.shields.io/badge/-Twitter-00acee?&style=for-the-badge&logo=Twitter&logoColor=white"/><br> [Dorifto](https://twitter.com/Dorifto_Z)
 
-<img src="https://img.shields.io/badge/-Steam-171a21?&style=for-the-badge&logo=Steam&logoColor=white"/> 
-[ZeroExp](https://steamcommunity.com/profiles/76561198819189817/)
+<img src="https://img.shields.io/badge/-Steam-171a21?&style=for-the-badge&logo=Steam&logoColor=white"/><br> [ZeroExp](https://steamcommunity.com/profiles/76561198819189817/)
 
 </div>
