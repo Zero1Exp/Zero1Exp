@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<div style="display: flex">
+
+<div align="center" style="display: flex">
 <img alt="Badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/Tailwindcss%20-0094de.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white"/>
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img alt="Badge" src="https://img.shields.io/badge/-Github-000000?&style=for-the-badge&logo=github&logoColor=white">
 <img alt="Badge" src="https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
-</div>
 
 ###
 
@@ -38,8 +37,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<div align="center">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/> [Tobi.R](https://instagram.com/tobi_o.g)
 
 <img src="https://img.shields.io/badge/-Twitter-00acee?&style=for-the-badge&logo=Twitter&logoColor=white"/> [Dorifto](https://twitter.com/Dorifto_Z)
 
 <img src="https://img.shields.io/badge/-Steam-171a21?&style=for-the-badge&logo=Steam&logoColor=white"/> [ZeroExp](https://steamcommunity.com/profiles/76561198819189817/)
+</div>
