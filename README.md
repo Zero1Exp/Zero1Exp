@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <img alt="Badge" src="https://img.shields.io/badge/Tailwindcss%20-0094de.svg?&style=for-the-badge&logo=Tailwindcss&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/JavaScript-eed718.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/React-3db8f5.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="Badge" src="https://img.shields.io/badge/php%20-9075fa.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/c++%20-006aff.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
